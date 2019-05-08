@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32414411157",
+    "firebase_url": "https://mqttflutter.firebaseio.com",
+    "project_id": "mqttflutter",
+    "storage_bucket": "mqttflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32414411157:android:baef4c5c61eb718e",
+        "android_client_info": {
+          "package_name": "br.com.pauloneto.mqtt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32414411157-ub73o9hlgq7h2v0q8qi98t5rjncc3cqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG-M9ZIfe9jRpCYKqacLhlJ_dmpxdgG-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32414411157-ub73o9hlgq7h2v0q8qi98t5rjncc3cqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
